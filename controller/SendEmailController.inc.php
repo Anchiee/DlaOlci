@@ -20,7 +20,7 @@ function sendEmail($email)
   $mail->SMTPAuth = true;
   $mail->Host = "smtp.gmail.com";
   $mail->Username = "kochamciieolcia@gmail.com";
-  $mail->Password = "fxmf lbee mwwy cyaz";
+  $mail->Password = getenv("gmailPassword");
   $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
   $mail->port = 587;
 
