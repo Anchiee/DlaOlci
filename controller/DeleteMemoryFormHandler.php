@@ -20,7 +20,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST")
 
     if(file_exists($imagePath))
     {
-      unlink($imagePath);
+      //unlink($imagePath); deactivated for demo purposes
     }
 
 
