@@ -27,7 +27,7 @@
   <div class="nav">
     <a href="./komplementy.php" class="links">Komplementy</a>
     <a href="../../model/database/dbCheck.inc.php" class="links">Formularz</a>
-    <a href="./wspomnienia.php" class="links" id="chosen-option">Wspomnienia</a>
+    <a href="../../controller/RedirectController.php" class="links" id="chosen-option">Wspomnienia</a>
   </div>  
 
   <div class="topnav">
@@ -35,7 +35,7 @@
     <div id="myLinks">
       <a href="./komplementy.php">Komplementy</a>
       <a href="./formularz.php">Formularz</a>
-      <a href="#">Wspomnienia</a>
+      <a href="../../controller/RedirectController.php">Wspomnienia</a>
     </div>
     
     <div class="hamburger-menu">

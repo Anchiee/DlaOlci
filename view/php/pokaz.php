@@ -24,7 +24,7 @@
     <div id="myLinks">
       <a href="./komplementy">Komplementy</a>
       <a href="../../model/database/dbCheck.inc.php" id="chosen-option-mobile">Formularz</a>
-      <a href="./wspomnienia.php">Wspomnienia</a>
+      <a href="../../controller/RedirectController.php">Wspomnienia</a>
     </div>
     
     <div class="hamburger-menu">

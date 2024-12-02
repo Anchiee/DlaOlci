@@ -16,7 +16,7 @@
   <div class="nav">
       <a href="./komplementy.php" class="links">Komplementy</a>
       <a href="./formularz.php" class="links">Formularz</a>
-      <a href="./wspomnienia.php" class="links">Wspomnienia</a>
+      <a href="../../controller/RedirectController.php" class="links">Wspomnienia</a>
   </div>
 
 
@@ -25,7 +25,7 @@
     <div id="myLinks">
       <a href="./wspomnienia.php">Komplementy</a>
       <a href="./formularz.php">Formularz</a>
-      <a href="./wspomnienia.php">Wspomnienia</a>
+      <a href="../../controller/RedirectController.php">Wspomnienia</a>
     </div>
     
     <div class="hamburger-menu">
