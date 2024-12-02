@@ -23,7 +23,7 @@
     <!-- Navigation links (hidden by default) -->
     <div id="myLinks">
       <a href="./komplementy">Komplementy</a>
-      <a href="./formularz.php" id="chosen-option-mobile">Formularz</a>
+      <a href="../../model/database/dbCheck.inc.php" id="chosen-option-mobile">Formularz</a>
       <a href="./wspomnienia.php">Wspomnienia</a>
     </div>
     

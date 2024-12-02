@@ -25,7 +25,7 @@
     <!-- Navigation links (hidden by default) -->
     <div id="myLinks">
       <a href="./komplementy">Komplementy</a>
-      <a href="./formularz.php">Formularz</a>
+      <a href="../../model/database/dbCheck.inc.php">Formularz</a>
       <a href="#" id="chosen-option-mobile">Wspomnienia</a>
     </div>
     
